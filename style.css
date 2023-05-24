@@ -553,14 +553,15 @@ footer .text span a:hover{
     position: relative;
     right: 65px;
   }
-  #ttl{
-    position: relative;
-    right: 75px;
-  }
    #rt{
     position: relative;
     left: 60px;
   }
+  #ttl{
+    position: relative;
+    right: 75px;
+  }
+  
   
 }
 .dleft{
