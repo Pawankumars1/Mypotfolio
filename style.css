@@ -557,6 +557,10 @@ footer .text span a:hover{
     position: relative;
     right: 75px;
   }
+   #rt{
+    position: relative;
+    left: 60px;
+  }
   
 }
 .dleft{
